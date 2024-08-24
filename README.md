@@ -1,2 +1,2 @@
 # UXwriter
-A community for UX writers
+resources for UX writers (Glossary, Localisation)
